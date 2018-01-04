@@ -1,0 +1,11 @@
+body {background-color: #a5ffc9}
+h1, h4, p, blockquote, bdo, table, alt {color: green}
+a {font-size: 150%}
+a:link {color: #21a041}
+a:hover {color: #29c651}
+a:visited {color: #31ba1f}
+table, th, td {
+	border: 1px solid green;
+	text-align: center;
+}
+th, td {padding: 5px}
